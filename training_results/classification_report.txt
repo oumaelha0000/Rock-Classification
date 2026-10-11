@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+      Basalt       0.81      0.58      0.68        98
+        Coal       0.97      0.92      0.94        74
+     Granite       0.71      0.75      0.73        79
+   Limestone       0.68      0.71      0.70        66
+      Marble       0.67      0.40      0.50        77
+   Quartzite       0.57      0.72      0.64        95
+   Sandstone       0.64      0.92      0.76        75
+
+    accuracy                           0.71       564
+   macro avg       0.72      0.71      0.71       564
+weighted avg       0.72      0.71      0.70       564
